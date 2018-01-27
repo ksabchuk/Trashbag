@@ -1,0 +1,14 @@
+---
+title: "ReadMe"
+author: "Сабчук Константин"
+date: "27 01 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Внимательно читай
+
+Это файл с описанием проекта, который не существует
